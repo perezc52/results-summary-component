@@ -71,7 +71,7 @@ main {
     border-radius: 100%;
     background: linear-gradient(to bottom, hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
     padding: 30px;
-    width: 70%;
+    width: 185px;
     align-self: center;
 }
 
@@ -183,9 +183,6 @@ button:hover {
         width: 100%;
         border-top-left-radius: 0;
         border-top-right-radius: 0;
-    }
-    .score {
-        width: 55%;
     }
     .summary {
         width: 100%;
